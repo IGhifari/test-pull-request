@@ -5,7 +5,7 @@ export default function Home() {
     <main style={{ padding: 20 }}>
       <h1>Halaman Utama</h1>
       <p>Selamat datang di website saya!</p>
-      <Link href="/about">a                 </Link>
+      <Link href="/about"></Link>
     </main>
   );
 }
